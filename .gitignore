@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# SQLite database
+*.db
+
+# Editor / temp files
+*.log
+*.tmp
